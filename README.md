@@ -6,7 +6,7 @@ Discover the magic of Disney with our new app, built with the latest technologie
 * If you press the demo button and it doesn't work right away, please refresh because it's not the best host. Thank you kindly for your understanding.
 
 Live Project : https://disney-clone-eta-three.vercel.app/
-
+ 
 1. Login Page
 
 ![1](https://user-images.githubusercontent.com/57075208/220948653-7c10e847-9433-4258-b971-8c5a9429a153.png)
